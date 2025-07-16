@@ -1,0 +1,7 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: AGS 1
+logo: /assets/images/logo.png
+description: "Satélites y Neuronas: Explorando lo Invisible con AI"
