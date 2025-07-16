@@ -21,12 +21,12 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
 
 ## Programa
 
-### Día 1
+### Día 1 (21/07/2025)
 
 - **Introducción a Python**
-    - Fundamentos: Variables, tipos de datos, estructuras de control.
-    - Uso de bibliotecas clave: NumPy, pandas, matplotlib.
-    - **Ejercicio práctico:** Procesamiento básico de datos.
+    - Fundamentos: Variables, tipos de datos, estructuras de control
+    - Uso de bibliotecas clave: NumPy, matplotlib
+    - **Ejercicio práctico:** Procesamiento básico de imágenes
         - Introducción a Python
         - Imágenes y RGB
         - Falso color
@@ -37,6 +37,16 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
     - Escalas espaciales y fenómenos geográficos
     - Vegetación
 
+#### 📒 Notebook: Introducción a Python
+
+En este cuaderno aprenderás sobre Python, cómo funciona y resolveremos algunos ejercicios prácticos relacionados al procesamiento de imágenes y canales de color. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+
+[![Introducción a Python](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Introducci%C3%B3n_a_Python.ipynb)
+
+
+### Día 2 (22/07/2025)
+
+Más info próximamente...
 
 ## Referencias
 
