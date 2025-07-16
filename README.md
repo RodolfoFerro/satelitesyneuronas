@@ -1,4 +1,4 @@
-# AGS 1
+# CLUB AGS 1 - "Satélites y Neuronas: Explorando lo Invisible con AI"
 
 ## Descripción del Club
 
@@ -41,6 +41,6 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
 ## Referencias
 
 Material para que revises:
-- [Curso de introducción a la programación científica con Python](https://futurelab.mx/cdecmx/): ¿No has programado antes? ¡No te preocupes! Este curso te dará las bases de programación con Python. El curso se divide en 3 secciones, lo básico lo encontrarás en la sección A. Python, pero será de utilidad en tu carrera como científic@ conocer las otras 2.
-- [Curso intensivo de aprendizaje automático](https://developers.google.com/machine-learning/crash-course?hl=es-419) por Google: ¿Ya programas y quieres prepararte aún más? Te recomendamos que vayas echando un vistazo a este curso intensivo sobre Machine Learning. En este curso encontrarás ideas sobre cómo funcionan los modelos de IA en la actualidad, elementos que nos serán de utilidad durante nuestro club.
-- [¿Qué es la luz? ¿Por qué vemos colores?](https://www.youtube.com/watch?v=5E3kl_7_cT0): Mira este breve video para entender por qué vemos colores, lo cual será importante para comprender durante el curso su uso en el campo de la Observación Terrestre.
+- **[Curso de introducción a la programación científica con Python](https://futurelab.mx/cdecmx/):** ¿No has programado antes? ¡No te preocupes! Este curso te dará las bases de programación con Python. El curso se divide en 3 secciones, lo básico lo encontrarás en la sección A. Python, pero será de utilidad en tu carrera como científic@ conocer las otras 2.
+- **[Curso intensivo de aprendizaje automático](https://developers.google.com/machine-learning/crash-course?hl=es-419) por Google:** ¿Ya programas y quieres prepararte aún más? Te recomendamos que vayas echando un vistazo a este curso intensivo sobre Machine Learning. En este curso encontrarás ideas sobre cómo funcionan los modelos de IA en la actualidad, elementos que nos serán de utilidad durante nuestro club.
+- **[¿Qué es la luz? ¿Por qué vemos colores?](https://www.youtube.com/watch?v=5E3kl_7_cT0):** Mira este breve video para entender por qué vemos colores, lo cual será importante para comprender durante el curso su uso en el campo de la Observación Terrestre.
