@@ -24,6 +24,7 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
 ### Día 1 (21/07/2025)
 
 - **Introducción a Python**
+    - Presentación: [Introducción a Python](/slides/intro-python.pdf)
     - Fundamentos: Variables, tipos de datos, estructuras de control
     - Uso de bibliotecas clave: NumPy, matplotlib
     - **Ejercicio práctico:** Procesamiento básico de imágenes
@@ -31,6 +32,7 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
         - Imágenes y RGB
         - Falso color
 - **Introducción a las ciencias de la observación terrestre (I)**
+    - Presentación: [TBA]()
     - Teoría de sistemas
     - Conceptos básicos de cartografía
     - Tipos de datos geo-espaciales
