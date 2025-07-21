@@ -44,6 +44,10 @@ En este cuaderno aprenderás sobre Python, cómo funciona y resolveremos algunos
 
 [![Introducción a Python](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Introducci%C3%B3n_a_Python.ipynb)
 
+#### 📒 Notebook: Introducción a Python
+
+[Introducción a la API de Google Earth Engine](https://colab.research.google.com/drive/13yskcsc3VjfOMQH9MpPQ8iMeyLowGvAb#scrollTo=RLrxo4PkMhNh)
+
 
 ### Día 2 (22/07/2025)
 
