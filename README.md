@@ -34,12 +34,9 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
         - Imágenes y RGB
         - Falso color
 - **Introducción a las ciencias de la observación terrestre**
-    - Presentación: [TBA]()
-    - Teoría de sistemas
-    - Conceptos básicos de cartografía
-    - Tipos de datos geo-espaciales
-    - Escalas espaciales y fenómenos geográficos
-    - Vegetación
+    - Teoría de sistemas de la tierra
+    - Radiación electromagnética y vegetación
+    - Percepción remota
 
 #### 📒 Notebook: Introducción a Python
 
