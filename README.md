@@ -50,7 +50,7 @@ En este cuaderno aprenderás sobre Python, cómo funciona y resolveremos algunos
 En este cuaderno aprenderás sobre en uso del servicio de Google Earth Engine. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
 
 
-[![Introducción a la API de Google Earth Engine](https://colab.research.google.com/assets/colab-badge.svg)](notebooks/Introducción_a_la_API_de_Earth_Engine_Python.ipynb)
+[![Introducción a la API de Google Earth Engine](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Introducción_a_la_API_de_Earth_Engine_Python.ipynb)
 
 
 ### Día 2 (22/07/2025)
