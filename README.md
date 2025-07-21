@@ -23,6 +23,8 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
 
 ### Día 1 (21/07/2025)
 
+#### 📚 Contenidos
+
 - **Introducción a Python**
     - Presentación: [Introducción a Python](/slides/intro-python.pdf)
     - Fundamentos: Variables, tipos de datos, estructuras de control
@@ -31,7 +33,7 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
         - Introducción a Python
         - Imágenes y RGB
         - Falso color
-- **Introducción a las ciencias de la observación terrestre (I)**
+- **Introducción a las ciencias de la observación terrestre**
     - Presentación: [TBA]()
     - Teoría de sistemas
     - Conceptos básicos de cartografía
