@@ -38,19 +38,18 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
     - Radiación electromagnética y vegetación
     - Percepción remota
 
-#### 📒 Notebook: Introducción a Python
-
-En este cuaderno aprenderás sobre Python, cómo funciona y resolveremos algunos ejercicios prácticos relacionados al procesamiento de imágenes y canales de color. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
-
-[![Introducción a Python](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Introducci%C3%B3n_a_Python.ipynb)
-
-
-#### 📒 Notebook: Introducción a la API de Google Earth Engine
-
-En este cuaderno aprenderás sobre en uso del servicio de Google Earth Engine. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+> #### 📒 Notebook: Introducción a Python
+> 
+> En este cuaderno aprenderás sobre Python, cómo funciona y resolveremos algunos ejercicios prácticos relacionados al procesamiento de imágenes y canales de color. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+>
+> [![Introducción a Python](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Introducci%C3%B3n_a_Python.ipynb)
 
 
-[![Introducción a la API de Google Earth Engine](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Introducción_a_la_API_de_Earth_Engine_Python.ipynb)
+> #### 📒 Notebook: Introducción a la API de Google Earth Engine
+> 
+> En este cuaderno aprenderás sobre en uso del servicio de Google Earth Engine. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+>
+> [![Introducción a la API de Google Earth Engine](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Introducción_a_la_API_de_Earth_Engine_Python.ipynb)
 
 
 ### Día 2 (22/07/2025)
