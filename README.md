@@ -55,7 +55,16 @@ En este cuaderno aprenderás sobre en uso del servicio de Google Earth Engine. P
 
 ### Día 2 (22/07/2025)
 
-Más info próximamente...
+#### 📚 Contenidos
+
+- **Salida de campo**
+    - Nociones espacio-temporales de un pixel.
+    - Recolección de datos GPS.
+- **Aprendizaje automático**
+    - Presentación: [Introducción a ML](/slides/intro-ml.pdf)
+    - Introducción a AI/ML/DL
+    - Creación de datasets para modelos de aprendizaje automático
+
 
 ## Referencias
 
