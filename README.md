@@ -96,7 +96,7 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
 > 
 > En este cuaderno pondermos en práctica el. conocimiento de las redes neuronales y aprenderás a utilizar TensorFlow para programar modelos más ocmplejos. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
 >
-> [![Introducción a la API de Google Earth Engine](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Introducción_a_las_neuronas_artificiales.ipynb)
+> [![Introducción a la API de Google Earth Engine](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Redes_neuronales_artificiales.ipynb)
 
 
 ## Referencias
