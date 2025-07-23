@@ -64,10 +64,10 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
     - Introducción a AI/ML/DL
     - Creación de datasets para modelos de aprendizaje automático
 
-<br>
 <center>
     <img src="assets/images/campo.jpg" width="75%">
 </center>
+<br>
 
 
 ### Día 3 (23/07/2025)
