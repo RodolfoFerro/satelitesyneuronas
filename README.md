@@ -87,16 +87,33 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
 
 > #### 📒 Notebook: Introducción a las neuronas artificiales
 > 
-> En este cuaderno aprenderás sobre qué son y cómo operan las neuronas artificials, desde un contexto histórico, hasta la aplicación de este tipo de modelos para la resolución de problemas interesantes. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+> En este cuaderno aprenderás sobre qué son y cómo operan las neuronas artificiales, desde un contexto histórico, hasta la aplicación de este tipo de modelos para la resolución de problemas interesantes. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
 >
 > [![Introducción a Python](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Introducción_a_las_neuronas_artificiales.ipynb)
 
 
 > #### 📒 Notebook: Redes neuronales artificiales
 > 
-> En este cuaderno pondermos en práctica el. conocimiento de las redes neuronales y aprenderás a utilizar TensorFlow para programar modelos más ocmplejos. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+> En este cuaderno pondermos en práctica el conocimiento de las redes neuronales y aprenderás a utilizar TensorFlow para programar modelos más complejos. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
 >
 > [![Introducción a la API de Google Earth Engine](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Redes_neuronales_artificiales.ipynb)
+
+### Día 4 (24/07/2025)
+
+#### 📚 Contenidos
+
+- **Visión artificial para imágenes satelitales (I)**
+    - Presentación: [Introducción a la visión computacional profunda](/slides/intro-cv.pdf)
+    - Dominios de aplicación para imágenes (clasificación, detección de objetos, segmentación de instancia, segmentación semántica, etc.).
+    - Operaciones en imágenes: escalamiento, pooling u convoluciones.
+    - Introducción a las redes neuronales convolucionales.
+    - **Ejercicio práctico:** Clasificación básica (ej. clasificación de imágenes).
+
+> #### 📒 Notebook: Redes neuronales convolucionales
+> 
+> En este cuaderno pondermos en práctica el conocimiento de las redes neuronales convolucionales. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+>
+> [![Introducción a la API de Google Earth Engine](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Redes_neuronales_convolucionales.ipynb)
 
 
 ## Referencias
