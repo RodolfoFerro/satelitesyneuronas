@@ -44,7 +44,6 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
 >
 > [![Introducción a Python](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Introducci%C3%B3n_a_Python.ipynb)
 
-
 > #### 📒 Notebook: Introducción a la API de Google Earth Engine (v2)
 > 
 > En este cuaderno aprenderás sobre en uso del servicio de Google Earth Engine. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
@@ -91,12 +90,12 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
 >
 > [![Introducción a Python](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Introducción_a_las_neuronas_artificiales.ipynb)
 
-
 > #### 📒 Notebook: Redes neuronales artificiales
 > 
 > En este cuaderno pondermos en práctica el conocimiento de las redes neuronales y aprenderás a utilizar TensorFlow para programar modelos más complejos. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
 >
 > [![Introducción a la API de Google Earth Engine](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Redes_neuronales_artificiales.ipynb)
+
 
 ### Día 4 (24/07/2025)
 
@@ -114,6 +113,24 @@ Capacitar a las y los participantes en el uso de herramientas y técnicas modern
 > En este cuaderno pondermos en práctica el conocimiento de las redes neuronales convolucionales. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
 >
 > [![Introducción a la API de Google Earth Engine](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Redes_neuronales_convolucionales.ipynb)
+
+
+### Día 5 (25/07/2025)
+
+#### 📚 Contenidos
+
+- **Visión artificial para imágenes satelitales (II)**
+    - Presentación: [Introducción a la visión computacional profunda](/slides/intro-cv.pdf)
+    - Introducción a modelos de segmentación (como U-Net).
+    - **Ejercicio práctico y proyecto final:** Segmentación de vegetación en imágenes satelitales.
+- **Casos de estudio/Aplicaciones industriales**
+    - Revisión de casos de estudio en otras áreas/industrias.
+
+> #### 📒 Notebook: Segmentación semántica con UNet
+> 
+> En este cuaderno implementaremos nuestro primer modelo de segmentación semántica, este cuaderno abre el reto para que puedas crear tu propio dataset y crear tu propio segmentador con imágenes satelitales. Para poder abrir tu cuadernillo de trabajo, pulsa en el botón a continuación.
+>
+> [![Introducción a la API de Google Earth Engine](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RodolfoFerro/satelitesyneuronas/blob/main/notebooks/Segmentación_semántica_con_UNet.ipynb)
 
 
 ## Referencias
